@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## BNFT
 
 You can use the [editor on GitHub](https://github.com/Ramshreyas/bnft.tech/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
