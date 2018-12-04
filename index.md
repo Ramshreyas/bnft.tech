@@ -9,7 +9,7 @@ International Aid is in crisis. Not because of a lack of supply, but because aid
 
 Imagine going from funding 
 
-_'10 million USD for Earthquake relief in Nepal' _
+_'10 million USD for Earthquake relief in Nepal'_
 
 to 
 
