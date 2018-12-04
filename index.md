@@ -2,9 +2,20 @@
 
 BNFT - creating a benefit transfer economy using DLT
 
-International Aid is in crisis. Not because of a lack of supply, but because aid is simply not reaching beneficiaries. BNFT aims to use two fundamental features of DLT; 1. trustless auditability, 2. game mechanics to try and address this crisis.
+International Aid is in crisis. Not because of a lack of supply, but because aid is simply not reaching beneficiaries. BNFT aims to use two fundamental features of DLT to try and address this crisis: 
 
-Imagine going from funding '10 million USD for Earthquake relief in Nepal', to '1 treated mosquito net, bottle of water purification tablets and 1 emergency light for the following 987,634 beneficiaries: Dhonu Namgyal, Id no: XXXXXXX, Abiral Sangma, Id no: XXXXX....'. Instead of broadcasting aid from a fire-hose, can we build a system that enables us to create individual aid-packages and deliver them to a specific, predetermined recipient?
+1. trustless auditability
+2. game mechanics 
+
+Imagine going from funding 
+
+_'10 million USD for Earthquake relief in Nepal' _
+
+to 
+
+_'1 treated mosquito net, bottle of water purification tablets and 1 emergency light for the following 987,634 beneficiaries: Dhonu Namgyal, Id no: XXXXXXX, Abiral Sangma, Id no: XXXXX....'_
+
+Instead of broadcasting aid from a fire-hose, can we build a system that enables us to create individual aid-packages and deliver them to a specific, predetermined recipient?
 
 BNFT makes this possible.
 
