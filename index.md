@@ -1,37 +1,21 @@
 ## BNFT
 
-You can use the [editor on GitHub](https://github.com/Ramshreyas/bnft.tech/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+BNFT - creating a benefit transfer economy using DLT
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+International Aid is in crisis. Not because of a lack of supply, but because aid is simply not reaching beneficiaries. BNFT aims to use two fundamental features of DLT; 1. trustless auditability, 2. game mechanics to try and address this crisis.
 
-### Markdown
+Imagine going from funding '10 million USD for Earthquake relief in Nepal', to '1 treated mosquito net, bottle of water purification tablets and 1 emergency light for the following 987,634 beneficiaries: Dhonu Namgyal, Id no: XXXXXXX, Abiral Sangma, Id no: XXXXX....'. Instead of broadcasting aid from a fire-hose, can we build a system that enables us to create individual aid-packages and deliver them to a specific, predetermined recipient?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+BNFT makes this possible.
 
-```markdown
-Syntax highlighted code block
+First, we represent individual benefits and aid as Non Fungible Tokens (NFTs).
+Next, we offer a smart-contract issued bounty for 'agents' who stake claim for these tokens, and transfer the benefit to the intended beneficiary. Anybody can participate - NGOs, entrepreneurs, even 'touts'.
+Lastly, we enable 'verifiers' to verify that the benefit was indeed transferred by cryptographically signing off, thereby triggering the smart contract to release the bounty to the agent.
 
-# Header 1
-## Header 2
-### Header 3
+All BNFTs thus created, transferred and verified will now have an individual trail, publicly and auditably recorded on the blockchain. Third-party oversight is just a matter of utilizing a block explorer to match facts on the chain with acts on the ground. If they do not match, it is public record which agent and verifier were involved. As NFTs, duplicates cannot exist, and they cannot be applied twice. Each benefit is unique and individual.
 
-- Bulleted
-- List
+The size of the bounty can now be used as a lever to incentivize the delivery of benefits in hard to reach places. Market economics can be taken advantage of to bring efficiency to the process. Now that the individual benefits can be created on the blockchain, it is even possible to bundle millions of such targeted benefits into 'Aid Instruments' that can be purchased by donor agencies in a transparent exchange-like environment. A donor can now directly invest in, say, '100 thousand scholarships for graduating girls in Uganda', rather than an abstract program that aims to deliver the same goal.
 
-1. Numbered
-2. List
+BNFT is not a panacea, and may not be applicable to all cases. But many situations could benefit from a market-economics approach to benefit delivery, rather than the difficult-to-monitor stakeholder-agency approach.
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Ramshreyas/bnft.tech/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+For more information, please visit https://bnft.tech
