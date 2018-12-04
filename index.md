@@ -19,8 +19,8 @@ Instead of broadcasting aid from a fire-hose, can we build a system that enables
 
 BNFT makes this possible.
 
-First, we represent *individual benefits* and aid as Non Fungible Tokens (NFTs).
-Next, we offer a *smart-contract issued bounty* for 'agents' who *stake claim* for these tokens, and transfer the benefit to the intended beneficiary. Anybody can participate - NGOs, entrepreneurs, even 'touts'.
+First, we represent *individual benefits* and aid as Non Fungible Tokens (NFTs).<br>
+Next, we offer a *smart-contract issued bounty* for 'agents' who *stake claim* for these tokens, and transfer the benefit to the intended beneficiary. Anybody can participate - NGOs, entrepreneurs, even 'touts'.<br>
 Lastly, we enable 'verifiers' to verify that the benefit was indeed transferred *by cryptographically signing* off, thereby *triggering the smart contract to release the bounty* to the agent.
 
 All BNFTs thus created, transferred and verified will now have an individual trail, publicly and auditably recorded on the blockchain. Third-party oversight is just a matter of utilizing a block explorer to match facts on the chain with acts on the ground. If they do not match, it is public record which agent and verifier were involved. As NFTs, duplicates cannot exist, and they cannot be applied twice. Each benefit is unique and individual.
